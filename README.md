@@ -1,12 +1,9 @@
 # Core2k6k_All_in_one
-A Core2k6k deck variant with pitch accent, stroke order diagrams, optional sentence images, and a lots more!
+The Core2k6k deck variant with pitch accent, stroke order diagrams, optional sentence images, created by [amaank404](https://github.com/amaank404) split by JLPT level.
 
-DOWNLOAD LINK: [Latest Release](https://github.com/amaank404/Core2k6k_All_in_one/releases/latest)
+DOWNLOAD LINK: [Latest Release](https://github.com/sampwash/Core2k6k_JLPT_Split/releases/latest)
 
 ## Variants
-
-### No Images
-![without.png](without.png)
 
 ### With Images
 ![with.png](with.png)
@@ -15,6 +12,7 @@ DOWNLOAD LINK: [Latest Release](https://github.com/amaank404/Core2k6k_All_in_one
 
 These are the latest Core2k6k Anki Decks that offer the following features:
 
+* Split by JLPT Level
 * Kanji on the frontside
 * Kanji audio
 * Pitch Accent
@@ -32,5 +30,12 @@ If you are a **new japanese learner** that wants a source to learn vocabulary, t
 * How to read hiragana?
 * Why is kanji stroke order so important?
 
-After all that, go ahead and download anki and set it up. From there, all you need to do is download the files from [Releases Tab](https://github.com/amaank404/Core2k6k_All_in_one/releases/latest). Then import the deck from "File > Import".
+After all that, go ahead and download anki and set it up. From there, all you need to do is download the files from [Releases Tab](https://github.com/sampwash/Core2k6k_JLPT_Split/releases/latest). Then import the deck from "File > Import".
 
+## Credits
+
+* https://github.com/amaank404/Core2k6k_All_in_one
+* https://ankiweb.net/shared/info/391985566
+* https://ankiweb.net/shared/info/836825730
+* https://ankiweb.net/shared/info/469728542
+* https://github.com/davidluzgouveia/kanji-data
