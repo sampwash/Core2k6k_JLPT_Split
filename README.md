@@ -1,4 +1,4 @@
-# Core2k6k_All_in_one
+# Core2k6k_JLPT_Split
 The Core2k6k deck variant with pitch accent, stroke order diagrams, optional sentence images, created by [amaank404](https://github.com/amaank404) split by JLPT level.
 
 DOWNLOAD LINK: [Latest Release](https://github.com/sampwash/Core2k6k_JLPT_Split/releases/latest)
